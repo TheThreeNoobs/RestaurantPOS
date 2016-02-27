@@ -29,20 +29,18 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. How to properly implement the search bar. 
-2. How to change the color of the top navigation bar. 
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/VOSfVoc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-It took an extremely long time to get the search bar to work. Even with the guide on CodePath, it was still quite hard to follow the instructions. The auto layout was easier than expected, but the search bar was the complicated part. 
+
 
 ## License
 
