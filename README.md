@@ -8,12 +8,12 @@ Time spent: **x** hours spent in total
 
 The following **required** functionality is completed:
 
-- [] Management can add/delete from menu. 
-- [] Custom cells should have the proper Auto Layout constraints.
-- [] Staff can take order and have them updated throughout various users. 
-- [] Management can keep track of sales.
-- [] Management can add tabs to divide the menu (entree, dessert, etc).
-- [] There are three different logins/users (staff, management, kitchen).
+- [ ] Management can add/delete from menu. 
+- [ ] Custom cells should have the proper Auto Layout constraints.
+- [ ] Staff can take order and have them updated throughout various users. 
+- [ ] Management can keep track of sales.
+- [ ] Management can add tabs to divide the menu (entree, dessert, etc).
+- [ ] There are three different logins/users (staff, management, kitchen).
 
 The following **optional** features are implemented:
 
@@ -21,6 +21,7 @@ The following **optional** features are implemented:
    - [ ] Occupancy per week/month/year.
    - [ ] Displays all time best seller based on data. 
 - [ ] Separate Checks
+- [ ] Add a modifiers section to the item screen. 
 
 The following **additional** features are implemented:
 
