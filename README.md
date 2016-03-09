@@ -30,6 +30,9 @@ The following **additional** features are implemented:
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
 ## **Wireframe Link:** https://www.fluidui.com/editor/live/preview/p_okhM93LfrtCcvgIdnKC8yyX1dR80bBpL.1457500442937
+Notes: 
+This is only the basic wireframe on the main components of the app. Our group will further expand on these areas as we go through developing this app because we will learn more of how we want to structure it as we go through the development process. This wireframe is mainly the initial groundwork we have laid out for our app, which we will build upon. 
+
 
 ## Video Walkthrough 
 
