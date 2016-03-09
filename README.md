@@ -29,6 +29,7 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
+**Wireframe Link:** https://www.fluidui.com/editor/live/preview/p_okhM93LfrtCcvgIdnKC8yyX1dR80bBpL.1457500442937
 
 ## Video Walkthrough 
 
