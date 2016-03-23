@@ -46,6 +46,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
 
+## Parse Table
+- The order (including menu item, price, amount).
+- Ordering price history
+- Image data
+
+
 ## License
 
     Copyright [2016] [TheThreeNoobs]
