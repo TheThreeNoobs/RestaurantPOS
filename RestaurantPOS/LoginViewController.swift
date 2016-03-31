@@ -26,7 +26,12 @@ class LoginViewController: UIViewController {
     
     @IBAction func signInButton(sender: AnyObject) {
         
-        
+        PFUser.logInWithUsernameInBackground(userName.text!, password: passwordField.text!) { (user: PFUser?, error: NSError?) -> Void in
+            if user != nil {
+                print("You are logged in")
+                self.performSegueWithIdentifier("mainscreen", sender: nil)
+            }
+        }
     }
 
     @IBAction func signUpButton(sender: AnyObject) {
@@ -42,7 +47,7 @@ class LoginViewController: UIViewController {
                 print(error.localizedDescription)
             } else {
                 print("User Registered successfully")
-                // manually segue to logged in view
+                self.performSegueWithIdentifier("mainscreen", sender: nil)
             }
         }
         
