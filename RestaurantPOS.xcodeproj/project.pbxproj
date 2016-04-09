@@ -13,6 +13,8 @@
 		BF8795171C825A0E006BA496 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF8795151C825A0E006BA496 /* Main.storyboard */; };
 		BF8795191C825A0E006BA496 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF8795181C825A0E006BA496 /* Assets.xcassets */; };
 		BF87951C1C825A0E006BA496 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF87951A1C825A0E006BA496 /* LaunchScreen.storyboard */; };
+		BFDB4F561CADEB83000DCF14 /* HomeScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDB4F551CADEB83000DCF14 /* HomeScreenViewController.swift */; };
+		BFDB4F581CADFC0E000DCF14 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDB4F571CADFC0E000DCF14 /* MenuViewController.swift */; };
 		BFFCF23A1CAB4D8000671878 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFCF2391CAB4D8000671878 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +28,8 @@
 		BF8795181C825A0E006BA496 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BF87951B1C825A0E006BA496 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BF87951D1C825A0E006BA496 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFDB4F551CADEB83000DCF14 /* HomeScreenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeScreenViewController.swift; sourceTree = "<group>"; };
+		BFDB4F571CADFC0E000DCF14 /* MenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		BFFCF2391CAB4D8000671878 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		D71A401A7D99A45818CE512E /* Pods-RestaurantPOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RestaurantPOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RestaurantPOS/Pods-RestaurantPOS.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -87,6 +91,8 @@
 				BF87951A1C825A0E006BA496 /* LaunchScreen.storyboard */,
 				BF87951D1C825A0E006BA496 /* Info.plist */,
 				BFFCF2391CAB4D8000671878 /* LoginViewController.swift */,
+				BFDB4F551CADEB83000DCF14 /* HomeScreenViewController.swift */,
+				BFDB4F571CADFC0E000DCF14 /* MenuViewController.swift */,
 			);
 			path = RestaurantPOS;
 			sourceTree = "<group>";
@@ -214,6 +220,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BFFCF23A1CAB4D8000671878 /* LoginViewController.swift in Sources */,
+				BFDB4F581CADFC0E000DCF14 /* MenuViewController.swift in Sources */,
+				BFDB4F561CADEB83000DCF14 /* HomeScreenViewController.swift in Sources */,
 				BF8795141C825A0E006BA496 /* ViewController.swift in Sources */,
 				BF8795121C825A0E006BA496 /* AppDelegate.swift in Sources */,
 			);

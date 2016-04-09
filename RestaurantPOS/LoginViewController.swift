@@ -29,7 +29,7 @@ class LoginViewController: UIViewController {
         PFUser.logInWithUsernameInBackground(userName.text!, password: passwordField.text!) { (user: PFUser?, error: NSError?) -> Void in
             if user != nil {
                 print("You are logged in")
-                self.performSegueWithIdentifier("mainscreen", sender: nil)
+                self.performSegueWithIdentifier("homescreen", sender: nil)
             }
         }
     }
@@ -47,7 +47,7 @@ class LoginViewController: UIViewController {
                 print(error.localizedDescription)
             } else {
                 print("User Registered successfully")
-                self.performSegueWithIdentifier("mainscreen", sender: nil)
+                self.performSegueWithIdentifier("homescreen", sender: nil)
             }
         }
         
